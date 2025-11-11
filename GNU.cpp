@@ -1,0 +1,10 @@
+#include <SFML/Window.hpp>
+#include <SFML/System.hpp>
+#include <SFML/Graphics.hpp>
+#include <TGUI/TGUI.hpp>
+#include <TGUI/Backend/SFML-Graphics.hpp>
+#include <cstdint>
+#include <random>
+#include <optional>
+#include <vector>
+#include <string>
